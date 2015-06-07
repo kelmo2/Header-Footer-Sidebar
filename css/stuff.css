@@ -106,7 +106,6 @@ aside {
 }
 article {
   flex: 1;
-  background-color: red;
   width: 66.6666667%;
   float: left;
 }
